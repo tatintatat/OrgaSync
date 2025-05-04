@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrgaSync App", "..\OrgaSync App\OrgaSync App\OrgaSync App.csproj", "{C56693C4-3100-1276-8CE3-1A88A92E1DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "OrgaSync System\WinFormsApp2.csproj", "{E8FF6639-03A7-FABD-80F6-946A5F6AAF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56693C4-3100-1276-8CE3-1A88A92E1DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56693C4-3100-1276-8CE3-1A88A92E1DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56693C4-3100-1276-8CE3-1A88A92E1DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56693C4-3100-1276-8CE3-1A88A92E1DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FF6639-03A7-FABD-80F6-946A5F6AAF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FF6639-03A7-FABD-80F6-946A5F6AAF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FF6639-03A7-FABD-80F6-946A5F6AAF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FF6639-03A7-FABD-80F6-946A5F6AAF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AD8F570-AAF7-45CC-83F4-16441E607991}
+	EndGlobalSection
+EndGlobal

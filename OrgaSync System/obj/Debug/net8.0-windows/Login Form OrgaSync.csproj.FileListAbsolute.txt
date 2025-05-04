@@ -1,0 +1,9 @@
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.csproj.AssemblyReference.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FrLogin.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login_Form_OrgaSync.Properties.Resources.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.csproj.GenerateResource.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.AssemblyInfoInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.AssemblyInfo.cs
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login Form OrgaSync.csproj.CoreCompileInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\Login_Form_OrgaSync.FrLogin.resources

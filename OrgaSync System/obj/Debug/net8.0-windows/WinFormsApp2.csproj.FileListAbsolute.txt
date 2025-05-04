@@ -1,0 +1,50 @@
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.FrLogin.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\OrgaSync App.deps.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\OrgaSync App.runtimeconfig.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\OrgaSync App.exe
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\OrgaSync App.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\OrgaSync App.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\OrgaSync App.deps.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\OrgaSync App.runtimeconfig.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\OrgaSync App.exe
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\OrgaSync App.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\bin\Debug\net8.0-windows\OrgaSync App.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.FrLogin.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Justine Erick Isleta\source\repos\WinFormsApp2\OrgaSync System\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
